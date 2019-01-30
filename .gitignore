@@ -1,0 +1,6 @@
+node_modules/
+npm-debug.log
+package-lock.json
+dbconfig.ts
+dbconfig.js
+dist/dbconfig.js.map
